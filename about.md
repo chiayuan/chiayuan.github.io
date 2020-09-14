@@ -19,13 +19,13 @@ Software Engineer / Bridgewell Inc., Taipei, Taiwan
 </p>
 
 <h2>Skills</h2>
-<b>Field</b><br>
+<h4>Field</h4>
 <p>Search Engine Technology, Natural Language Processing</p>
 
-<b>Language</b><br>
+<h4>Language</h4>
 <p>Python, C#, SQL</p>
 
-<b>Tool</b><br>
+<h4>Tool</h4>
 <p>Spark, Docker, Git, Jenkins, MySQL</p>
 
 <h2>Education</h2>
