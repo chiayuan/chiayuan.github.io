@@ -11,12 +11,15 @@ layout: page
 <p>
 I like to solve problems systematically; therefore, I seize every opportunity to make myself a better developer while reading and coding. I earned my Master's and Bachelor's degree from National Chiao Tung University and joined Bridgwell Inc. as a software developer in 2019</p>
 
+<hr>
 
 <h2>Experience</h2>
 <p>
 <em>Jan. 2019 - Now</em><br>
 Software Engineer / Bridgewell Inc., Taipei, Taiwan
 </p>
+
+<hr>
 
 <h2>Skills</h2>
 <h4>Field</h4>
@@ -27,6 +30,8 @@ Software Engineer / Bridgewell Inc., Taipei, Taiwan
 
 <h4>Tool</h4>
 <p>Spark, Docker, Git, Jenkins, MySQL</p>
+
+<hr>
 
 <h2>Education</h2>
 <p>
