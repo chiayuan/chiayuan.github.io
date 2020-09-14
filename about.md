@@ -5,11 +5,11 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 
-<em>As a software developer, I think it's better make some footprints on the Internet, right?</em>
+<em>As a software developer,</em><br>
+<em>I think it's better to make some footprints on the Internet, right?</em>
 
 <p>
 I like to solve problems systematically; therefore, I seize every opportunity to make myself a better developer while reading and coding. I earned my Master's and Bachelor's degree from National Chiao Tung University and joined Bridgwell Inc. as a software developer in 2019</p>
-</p>
 
 
 <h2>Experience</h2>
@@ -19,13 +19,13 @@ Software Engineer / Bridgewell Inc., Taipei, Taiwan
 </p>
 
 <h2>Skills</h2>
-<h3>Field</h3>
-<p>Search Engine Technology, Natural Language Processing, Machine Learning</p>
+<b>Field</b><br>
+<p>Search Engine Technology, Natural Language Processing</p>
 
-<h3>Language</h3>
+<b>Language</b><br>
 <p>Python, C#, SQL</p>
 
-<h3>Tool</h3>
+<b>Tool</b><br>
 <p>Spark, Docker, Git, Jenkins, MySQL</p>
 
 <h2>Education</h2>
