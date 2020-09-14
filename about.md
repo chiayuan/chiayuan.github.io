@@ -50,13 +50,13 @@ Major: Computer Science (Bachelor of Science)
 <h2>A Little More About Me</h2>
 <p>Besides from coding, I am quite a hipster (in a good way I supposed). 
 I enjoy everything about stationery, such as fountain pens, notebooks or stamps. 
-Although, as a minimalist with pride, I collect what I really need rather than everything I wanted.
+Although as a minimalist with pride, I collect what I really need rather than everything I wanted.
 Two of my favorite brands are Apple and Muji.
 </p>
 
 <p>
 I am also a big fan of music (mostly from western). When I was young, I was crazy about pop music.
-Nowadays, indie music is more to my taste. Some of my favorite singers/bands are: The National, The Radio Dept, Bon Iver, Lorde.
-One of songs that hits me hard is:<br>
+Nowadays, indie music is more to my taste. Some of my favorite singers / bands are: The National, The Radio Dept, Bon Iver, Lorde.
+One of songs that broke my replay button is:<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p7ZWBuKRYKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
